@@ -6,8 +6,8 @@ public class BackstagePassesItem extends CommonItem {
     protected final int DOUBLE_INCREASE = 2;
     protected final int TRIPLE_INCREASE = 3;
 
-    public BackstagePassesItem(String name, int sellIn, int quality) {
-        super(name, sellIn, quality);
+    public BackstagePassesItem(String name, int quality, int sellIn) {
+        super(name, quality, sellIn);
     }
 
     @Override

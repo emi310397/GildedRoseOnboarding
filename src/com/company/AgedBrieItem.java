@@ -4,8 +4,8 @@ public class AgedBrieItem extends CommonItem {
 
     protected final int SIMPLE_INCREASE = 1;
 
-    public AgedBrieItem(String name, int sellIn, int quality) {
-        super(name, sellIn, quality);
+    public AgedBrieItem(String name, int quality, int sellIn) {
+        super(name, quality, sellIn);
     }
 
     @Override

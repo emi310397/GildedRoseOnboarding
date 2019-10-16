@@ -4,8 +4,8 @@ public class ConjuredItem extends CommonItem {
 
     protected final int QUADRUPLE_DEGRADATION = -4;
 
-    public ConjuredItem(String name, int sellIn, int quality) {
-        super(name, sellIn, quality);
+    public ConjuredItem(String name, int quality, int sellIn) {
+        super(name, quality, sellIn);
     }
 
     @Override

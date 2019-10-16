@@ -7,7 +7,7 @@ public class CommonItem extends Item implements Updatable {
 
     protected int sellIn;
 
-    public CommonItem(String name, int sellIn, int quality) {
+    public CommonItem(String name, int quality, int sellIn) {
         super(name, quality);
         this.sellIn = sellIn;
     }

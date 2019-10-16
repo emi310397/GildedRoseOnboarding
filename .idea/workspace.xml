@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d86395e-8528-400e-9ad2-ced076fb830d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/ItemFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/NonExistanceItemExeption.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GildedRoseOnboarding/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GildedRoseOnboarding/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/AgedBrieItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AgedBrieItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/BackstagePassesItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BackstagePassesItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CommonItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CommonItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ConjuredItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ConjuredItem.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +75,14 @@
       <option name="presentableId" value="Default" />
       <updated>1568991609859</updated>
     </task>
+    <task id="LOCAL-00001" summary="Implemented Factory pattern">
+      <created>1569592222082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569592222082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,5 +97,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implemented Factory pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented Factory pattern" />
   </component>
 </project>
